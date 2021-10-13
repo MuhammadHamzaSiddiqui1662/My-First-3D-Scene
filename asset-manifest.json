@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/My-First-3D-Scene/static/css/main.7cb4081e.chunk.css",
-    "main.js": "/My-First-3D-Scene/static/js/main.90674ae4.chunk.js",
-    "main.js.map": "/My-First-3D-Scene/static/js/main.90674ae4.chunk.js.map",
+    "main.js": "/My-First-3D-Scene/static/js/main.950e8ebc.chunk.js",
+    "main.js.map": "/My-First-3D-Scene/static/js/main.950e8ebc.chunk.js.map",
     "runtime-main.js": "/My-First-3D-Scene/static/js/runtime-main.18ef81ad.js",
     "runtime-main.js.map": "/My-First-3D-Scene/static/js/runtime-main.18ef81ad.js.map",
-    "static/js/2.79261c12.chunk.js": "/My-First-3D-Scene/static/js/2.79261c12.chunk.js",
-    "static/js/2.79261c12.chunk.js.map": "/My-First-3D-Scene/static/js/2.79261c12.chunk.js.map",
+    "static/js/2.3ea15937.chunk.js": "/My-First-3D-Scene/static/js/2.3ea15937.chunk.js",
+    "static/js/2.3ea15937.chunk.js.map": "/My-First-3D-Scene/static/js/2.3ea15937.chunk.js.map",
     "static/js/3.beafa87d.chunk.js": "/My-First-3D-Scene/static/js/3.beafa87d.chunk.js",
     "static/js/3.beafa87d.chunk.js.map": "/My-First-3D-Scene/static/js/3.beafa87d.chunk.js.map",
     "index.html": "/My-First-3D-Scene/index.html",
     "static/css/main.7cb4081e.chunk.css.map": "/My-First-3D-Scene/static/css/main.7cb4081e.chunk.css.map",
-    "static/js/2.79261c12.chunk.js.LICENSE.txt": "/My-First-3D-Scene/static/js/2.79261c12.chunk.js.LICENSE.txt"
+    "static/js/2.3ea15937.chunk.js.LICENSE.txt": "/My-First-3D-Scene/static/js/2.3ea15937.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18ef81ad.js",
-    "static/js/2.79261c12.chunk.js",
+    "static/js/2.3ea15937.chunk.js",
     "static/css/main.7cb4081e.chunk.css",
-    "static/js/main.90674ae4.chunk.js"
+    "static/js/main.950e8ebc.chunk.js"
   ]
 }
